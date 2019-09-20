@@ -1,0 +1,5 @@
+Iniciar aplicação node
+->npm init
+
+Pacotes para requisições HTTP e DEBUG
+->npn install http express debug --save
